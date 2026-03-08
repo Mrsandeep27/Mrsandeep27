@@ -107,10 +107,7 @@ Currently building desktop apps with C++, Qt, STL, and QML. Open to collaboratin
   <a href="https://www.linkedin.com/in/mrsandeep27">
     <img src="https://img.shields.io/badge/LinkedIn-mrsandeep27-0A66C2?style=flat-square&logo=linkedin" />
   </a>
-  &nbsp;
-  <a href="https://www.instagram.com/mrsandeep27">
-    <img src="https://img.shields.io/badge/Instagram-mr._.sandeep_27-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
+
 </p>
 
 ---
