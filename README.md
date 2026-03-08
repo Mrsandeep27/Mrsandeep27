@@ -1,27 +1,102 @@
-# Hi there, I'm Sandeep Pandey
+<h1 align="center">Hey, I'm Sandeep Pandey 👋</h1>
 
-Currently working on **Qt Desktop Applications**
-Learning **C++, Qt, STL, and QML**
-Open to collaborate on **Qt projects** and **beginner-friendly C++ repositories**
+<p align="center">
+  <b>Full-Stack Developer · India</b><br/>
+  Building production-grade web apps with modern JavaScript, React, and Node.js
+</p>
 
-## Tech Stack
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Next.js+%2B+Node.js+%2B+PostgreSQL;C%2B%2B+%7C+Qt+%7C+Desktop+Apps;Building+things+that+actually+work" alt="Typing SVG" />
+</p>
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+---
 
-## GitHub Stats
+## 🚀 Featured Project — GigFlow
 
-![Sandeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrsandeep27&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsandeep27&layout=compact&theme=radical)
+> **India's AI-Powered Freelance Marketplace** — 10 advanced hiring features in one platform
 
-## Connect with Me
+[![GigFlow](https://img.shields.io/badge/GigFlow-View%20Project-4F46E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mrsandeep27/GigFlow)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/mrsandeep27)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mrsandeep27)
+| Feature | Tech |
+|---------|------|
+| Application pipeline tracker | PostgreSQL state machine |
+| AI Resume Analyzer | Claude API (Haiku) + rule-based fallback |
+| Real-time chat | REST polling + Socket.io |
+| Skill Tests with auto-shortlist | MCQ grading engine |
+| Reverse hiring marketplace | Candidate discovery + salary benchmarks |
+| Fraud detection | Auto-flag at 3 reports |
+| Portfolio-based hiring | GitHub + live links + thumbnails |
+| Referral system | Post/request/approve flow |
+| Salary transparency | Market benchmarks per role |
+| AI job recommendations | Skill-overlap algorithm |
+
+**Stack:** Next.js 16 · TypeScript · Tailwind CSS v4 · Express.js · PostgreSQL · Socket.io · Anthropic Claude API
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+---
+
+## 📦 Projects
+
+### [GigFlow](https://github.com/Mrsandeep27/GigFlow) — AI-Powered Job Marketplace
+Full-stack platform with job posting, bidding, AI resume analysis, skill tests, real-time chat, referrals, and candidate discovery. Built with Next.js + Express + PostgreSQL.
+
+### [Expense Tracker](https://github.com/Mrsandeep27/expense-tracker)
+Personal finance tracker with category breakdowns, charts, and monthly summaries.
+
+### Qt Desktop Applications
+Currently building desktop apps with C++, Qt, STL, and QML. Open to collaborating on Qt projects and beginner-friendly C++ repositories.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mrsandeep27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrsandeep27&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrsandeep27&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 Connect
+
+<p align="left">
+  <a href="https://github.com/Mrsandeep27">
+    <img src="https://img.shields.io/badge/GitHub-Mrsandeep27-181717?style=flat-square&logo=github" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mrsandeep27">
+    <img src="https://img.shields.io/badge/LinkedIn-mrsandeep27-0A66C2?style=flat-square&logo=linkedin" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/mrsandeep27">
+    <img src="https://img.shields.io/badge/Instagram-mrsandeep27-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mrsandeep27&color=4F46E5&style=flat-square" alt="Profile views" />
+</p>
