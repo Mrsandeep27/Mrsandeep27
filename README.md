@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Next.js+%2B+Node.js+%2B+PostgreSQL;C%2B%2B+%7C+Qt+%7C+Desktop+Apps;Building+things+that+actually+work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Next.js+%2B+Node.js+%2B+PostgreSQL;React+%2B+TypeScript+%2B+Tailwind;Building+things+that+actually+work" alt="Typing SVG" />
 </p>
 
 ---
@@ -50,9 +50,10 @@
   <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" />
+  <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logo=recharts&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
@@ -80,9 +81,6 @@ Full-stack platform with job posting, bidding, AI resume analysis, skill tests, 
 [![Live Demo](https://img.shields.io/badge/Live-expense--tracker--alpha--dun.vercel.app-4F46E5?style=flat-square&logo=vercel&logoColor=white)](https://expense-tracker-alpha-dun.vercel.app)
 
 Production-grade finance tracker with income/expense tracking, multi-account management, budgets with alerts, savings goals, recurring transactions, split expenses, bank statement import (HDFC, SBI, ICICI, Axis, Chase + auto-categorization with 200+ merchant mappings), 4 chart types, monthly/yearly reports, PIN lock, PWA support, and dark mode. Built with Next.js 15 + React 19 + shadcn/ui + Recharts + RHF + Zod.
-
-### Qt Desktop Applications
-Currently building desktop apps with C++, Qt, STL, and QML. Open to collaborating on Qt projects and beginner-friendly C++ repositories.
 
 ---
 
