@@ -76,8 +76,10 @@
 ### [GigFlow](https://github.com/Mrsandeep27/GigFlow) — AI-Powered Job Marketplace
 Full-stack platform with job posting, bidding, AI resume analysis, skill tests, real-time chat, referrals, and candidate discovery. Built with Next.js + Express + PostgreSQL.
 
-### [Expense Tracker](https://github.com/Mrsandeep27/expense-tracker)
-Personal finance tracker with category breakdowns, charts, and monthly summaries.
+### [Expense Tracker](https://github.com/Mrsandeep27/expense-tracker) — Full-Featured Personal Finance App
+[![Live Demo](https://img.shields.io/badge/Live-expense--tracker--alpha--dun.vercel.app-4F46E5?style=flat-square&logo=vercel&logoColor=white)](https://expense-tracker-alpha-dun.vercel.app)
+
+Production-grade finance tracker with income/expense tracking, multi-account management, budgets with alerts, savings goals, recurring transactions, split expenses, bank statement import (HDFC, SBI, ICICI, Axis, Chase + auto-categorization with 200+ merchant mappings), 4 chart types, monthly/yearly reports, PIN lock, PWA support, and dark mode. Built with Next.js 15 + React 19 + shadcn/ui + Recharts + RHF + Zod.
 
 ### Qt Desktop Applications
 Currently building desktop apps with C++, Qt, STL, and QML. Open to collaborating on Qt projects and beginner-friendly C++ repositories.
