@@ -15,7 +15,9 @@
 
 > **India's AI-Powered Freelance Marketplace** — 10 advanced hiring features in one platform
 
-[![GigFlow](https://img.shields.io/badge/GigFlow-View%20Project-4F46E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mrsandeep27/GigFlow)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-gig--flow--work.vercel.app-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://gig-flow-work.vercel.app)
+&nbsp;
+[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mrsandeep27/GigFlow)
 
 | Feature | Tech |
 |---------|------|
@@ -75,7 +77,9 @@
 ## 📦 Projects
 
 ### [GigFlow](https://github.com/Mrsandeep27/GigFlow) — AI-Powered Job Marketplace
-Full-stack platform with job posting, bidding, AI resume analysis, skill tests, real-time chat, referrals, and candidate discovery. Built with Next.js + Express + PostgreSQL.
+[![Live](https://img.shields.io/badge/Live-gig--flow--work.vercel.app-4F46E5?style=flat-square&logo=vercel&logoColor=white)](https://gig-flow-work.vercel.app)
+
+Full-stack platform with job posting, bidding, AI resume analysis, skill tests, real-time chat, referrals, and candidate discovery. 43 automated tests, production-hardened with JWT auth, role-based access control, and atomic transactions. Built with Next.js + Express + PostgreSQL.
 
 ### [Expense Tracker](https://github.com/Mrsandeep27/expense-tracker) — Full-Featured Personal Finance App
 [![Live Demo](https://img.shields.io/badge/Live-expense--tracker--alpha--dun.vercel.app-4F46E5?style=flat-square&logo=vercel&logoColor=white)](https://expense-tracker-alpha-dun.vercel.app)
