@@ -81,15 +81,15 @@
 
 Full-stack platform with job posting, bidding, AI resume analysis, skill tests, real-time chat, referrals, and candidate discovery. 43 automated tests, production-hardened with JWT auth, role-based access control, and atomic transactions. Built with Next.js + Express + PostgreSQL.
 
-### [Expense Tracker](https://github.com/Mrsandeep27/expense-tracker) — Full-Featured Personal Finance App
-[![Live Demo](https://img.shields.io/badge/Live-daily----expense--tracker.vercel.app-4F46E5?style=flat-square&logo=vercel&logoColor=white)](https://daily--expense-tracker.vercel.app)
-
-Production-grade finance tracker with income/expense tracking, multi-account management, budgets with alerts, savings goals, recurring transactions, split expenses, bank statement import (HDFC, SBI, ICICI, Axis, Chase + auto-categorization with 200+ merchant mappings), 4 chart types, monthly/yearly reports, PIN lock, PWA support, and dark mode. Built with Next.js 15 + React 19 + shadcn/ui + Recharts + RHF + Zod.
-
 ### [MediLog](https://github.com/Mrsandeep27/MEDILOG) — AI-Powered Family Health Record Manager
 [![Live](https://img.shields.io/badge/Live-medi--log.vercel.app-4F46E5?style=flat-square&logo=vercel&logoColor=white)](https://medi--log.vercel.app)
 
 India's first offline-first family health locker. Scan prescriptions with AI (Google Gemini), track medicines for every family member, set reminders, share records with doctors via QR code, and log health metrics (BP, sugar, weight). Works offline with Dexie.js (IndexedDB) and syncs to cloud. 30 routes, 6 phases, production-reviewed. Built with Next.js 16 + TypeScript + Tailwind v4 + Prisma + Supabase PostgreSQL + Gemini Flash + Tesseract.js OCR.
+
+### [Expense Tracker](https://github.com/Mrsandeep27/expense-tracker) — Full-Featured Personal Finance App
+[![Live Demo](https://img.shields.io/badge/Live-daily----expense--tracker.vercel.app-4F46E5?style=flat-square&logo=vercel&logoColor=white)](https://daily--expense-tracker.vercel.app)
+
+Production-grade finance tracker with income/expense tracking, multi-account management, budgets with alerts, savings goals, recurring transactions, split expenses, bank statement import (HDFC, SBI, ICICI, Axis, Chase + auto-categorization with 200+ merchant mappings), 4 chart types, monthly/yearly reports, PIN lock, PWA support, and dark mode. Built with Next.js 15 + React 19 + shadcn/ui + Recharts + RHF + Zod.
 
 ---
 
