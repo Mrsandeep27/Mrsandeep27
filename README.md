@@ -11,28 +11,27 @@
 
 ---
 
-## 🚀 Featured Project — GigFlow
+## 🚀 Featured Project — MediLog
 
-> **India's AI-Powered Freelance Marketplace** — 10 advanced hiring features in one platform
+> **India's First Offline-First, AI-Powered Family Health Record Manager** — Your family's complete medical history on your phone
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-gig--flow--work.vercel.app-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://gig-flow-work.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-medi--log.vercel.app-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://medi--log.vercel.app)
 &nbsp;
-[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mrsandeep27/GigFlow)
+[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mrsandeep27/MEDILOG)
 
 | Feature | Tech |
 |---------|------|
-| Application pipeline tracker | PostgreSQL state machine |
-| AI Resume Analyzer | Claude API (Haiku) + rule-based fallback |
-| Real-time chat | REST polling + Socket.io |
-| Skill Tests with auto-shortlist | MCQ grading engine |
-| Reverse hiring marketplace | Candidate discovery + salary benchmarks |
-| Fraud detection | Auto-flag at 3 reports |
-| Portfolio-based hiring | GitHub + live links + thumbnails |
-| Referral system | Post/request/approve flow |
-| Salary transparency | Market benchmarks per role |
-| AI job recommendations | Skill-overlap algorithm |
+| AI Prescription Scanner | Google Gemini 2.0 Flash (Hindi + English) |
+| Offline-First Architecture | Dexie.js (IndexedDB) + Supabase cloud sync |
+| Family Profiles | Unlimited members, individual medical timelines |
+| Doctor Sharing via QR | No login required — scan and view |
+| Medicine Reminders | Push notification based scheduling |
+| Emergency Card | Blood group, allergies, medicines — no unlock needed |
+| Document Vault | Prescriptions, lab reports, vaccination records, bills |
+| Health Timeline | Chronological medical events per family member |
+| PIN Lock Security | 4-digit PIN, 5-min auto-lock, DPDPA compliant |
 
-**Stack:** Next.js 16 · TypeScript · Tailwind CSS v4 · Express.js · PostgreSQL · Socket.io · Anthropic Claude API
+**Stack:** Next.js 16 · React 19 · TypeScript · Tailwind CSS v4 · Supabase PostgreSQL · Zustand · Dexie.js · Google Gemini 2.0 Flash · Tesseract.js OCR · PWA
 
 ---
 
