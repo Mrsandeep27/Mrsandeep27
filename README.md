@@ -11,27 +11,31 @@
 
 ---
 
-## 🚀 Featured Project — MediLog
+## 🚀 Featured Project — MediFamily
 
-> **India's First Offline-First, AI-Powered Family Health Record Manager** — Your family's complete medical history on your phone
+> **India's First Offline-First, AI-Powered Family Health Record Manager** — Your family's complete medical history on your phone, with a self-improving AI Doctor
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-medi--log.vercel.app-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://medi--log.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-medifamily.in-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://medifamily.in)
 &nbsp;
-[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mrsandeep27/MEDILOG)
+[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mrsandeep27/MEDIFAMILY)
 
 | Feature | Tech |
 |---------|------|
-| AI Prescription Scanner | Google Gemini 2.0 Flash (Hindi + English) |
+| Self-Improving AI Doctor | Gemini AI grounded in patient's real medical history + live safety rules |
+| AI Prescription Scanner | Camera → Tesseract OCR (Hindi + English) → Gemini extraction |
+| Safety Detector | Allergy checks, pregnancy screening, pediatric guards, red-flag escalation |
+| Medicine Info & Checker | AI-powered drug lookup + interaction checker |
+| Lab Insights | Upload lab reports → AI explains abnormal values |
 | Offline-First Architecture | Dexie.js (IndexedDB) + Supabase cloud sync |
 | Family Profiles | Unlimited members, individual medical timelines |
 | Doctor Sharing via QR | No login required — scan and view |
-| Medicine Reminders | Push notification based scheduling |
-| Emergency Card | Blood group, allergies, medicines — no unlock needed |
-| Document Vault | Prescriptions, lab reports, vaccination records, bills |
+| Medicine Reminders | Push notifications + adherence tracking |
+| Emergency Card | Blood group, allergies, medicines + QR code |
+| Vitals Tracker | BP, sugar, weight, temp, SpO2 with trends |
 | Health Timeline | Chronological medical events per family member |
-| PIN Lock Security | 4-digit PIN, 5-min auto-lock, DPDPA compliant |
+| Admin Rules Panel | Review, approve, and manage AI safety rules |
 
-**Stack:** Next.js 16 · React 19 · TypeScript · Tailwind CSS v4 · Supabase PostgreSQL · Zustand · Dexie.js · Google Gemini 2.0 Flash · Tesseract.js OCR · PWA
+**Stack:** Next.js 16 · TypeScript · Tailwind CSS v4 · Supabase PostgreSQL · Prisma · Zustand · Dexie.js · Google Gemini AI · Tesseract.js OCR · PWA
 
 ---
 
@@ -75,15 +79,15 @@
 
 ## 📦 Projects
 
+### [MediFamily](https://github.com/Mrsandeep27/MEDIFAMILY) — AI-Powered Family Health Record Manager
+[![Live](https://img.shields.io/badge/Live-medifamily.in-4F46E5?style=flat-square&logo=vercel&logoColor=white)](https://medifamily.in)
+
+India's first offline-first family health locker with a **self-improving AI Doctor**. Scan prescriptions with AI (Google Gemini), get medical guidance grounded in your real health records, track medicines for every family member, set reminders, check drug interactions, share records with doctors via QR code, and log health vitals. The AI learns from mistakes via a safety detector + rule writer + admin review loop. 30+ curated safety rules, allergy/pregnancy/pediatric guards. Built with Next.js 16 + TypeScript + Tailwind v4 + Prisma + Supabase + Gemini AI + Tesseract.js OCR.
+
 ### [GigFlow](https://github.com/Mrsandeep27/GigFlow) — AI-Powered Job Marketplace
 [![Live](https://img.shields.io/badge/Live-gig--flow--work.vercel.app-4F46E5?style=flat-square&logo=vercel&logoColor=white)](https://gig-flow-work.vercel.app)
 
 Full-stack platform with job posting, bidding, AI resume analysis, skill tests, real-time chat, referrals, and candidate discovery. 43 automated tests, production-hardened with JWT auth, role-based access control, and atomic transactions. Built with Next.js + Express + PostgreSQL.
-
-### [MediLog](https://github.com/Mrsandeep27/MEDILOG) — AI-Powered Family Health Record Manager
-[![Live](https://img.shields.io/badge/Live-medi--log.vercel.app-4F46E5?style=flat-square&logo=vercel&logoColor=white)](https://medi--log.vercel.app)
-
-India's first offline-first family health locker. Scan prescriptions with AI (Google Gemini), track medicines for every family member, set reminders, share records with doctors via QR code, and log health metrics (BP, sugar, weight). Works offline with Dexie.js (IndexedDB) and syncs to cloud. 30 routes, 6 phases, production-reviewed. Built with Next.js 16 + TypeScript + Tailwind v4 + Prisma + Supabase PostgreSQL + Gemini Flash + Tesseract.js OCR.
 
 ### [Expense Tracker](https://github.com/Mrsandeep27/expense-tracker) — Full-Featured Personal Finance App
 [![Live Demo](https://img.shields.io/badge/Live-daily----expense--tracker.vercel.app-4F46E5?style=flat-square&logo=vercel&logoColor=white)](https://daily--expense-tracker.vercel.app)
@@ -115,11 +119,4 @@ Production-grade finance tracker with income/expense tracking, multi-account man
   <a href="https://www.linkedin.com/in/mrsandeep27">
     <img src="https://img.shields.io/badge/LinkedIn-mrsandeep27-0A66C2?style=flat-square&logo=linkedin" />
   </a>
-
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mrsandeep27&color=4F46E5&style=flat-square" alt="Profile views" />
 </p>
